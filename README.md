@@ -2,7 +2,7 @@
 
 This repository includes the data and source code for POI recommendation using the CFSKW method. Please cite the following paper if you used this repository:
 
-Vahidnia, M.H., 2022. Point-of-Interest Recommendation in Location-based Social Networks Based on Collaborative Filtering and Spatial Kernel Weighting. Geocarto International
+Vahidnia, M.H., 2022. Point-of-Interest Recommendation in Location-based Social Networks Based on Collaborative Filtering and Spatial Kernel Weighting. Geocarto International. https://doi.org/10.1080/10106049.2022.2086626
 
 
 The datasets used in this study have been extracted from the check-in data in New York City, and Tokyo collected from Foursquare.
